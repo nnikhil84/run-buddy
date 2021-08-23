@@ -177,14 +177,6 @@ section {
   display: inline-block;
 }
 
-.primary-border {
-    border-color: #fce138;
-}
-
-.secondary-border {
-    border-color: #39a6b2;
-}
-
 /* Meet the trainers section */
 
 .trainers {
@@ -237,3 +229,33 @@ section {
 }
 /* Utility Classes Ends */
 
+.contact {
+    text-align: center;
+    background-color: #024e76;
+}
+
+.contact h2 {
+    color: #fce138;
+}
+
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+}
+
+.contact-info div {
+    width: 410px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin: 30px 0 0 60px;
+    color: white;
+}
+
+.primary-border {
+    border-color: #fce138;
+}
+
+.secondary-border {
+    border-color: #39a6b2;
+}
