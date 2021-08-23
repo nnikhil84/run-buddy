@@ -12,7 +12,6 @@ body {
 
 /* Header */
 
-
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -75,11 +74,11 @@ section {
     padding: 60px;
 }
 
-/* hero style */
+/* hero style - homepage*/
 
 .hero {
     background-image: url("../images/hero-bg.jpeg");
-    height: 600px;
+    height: 750px;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -257,7 +256,8 @@ section {
     font-size: 32px;
 }
 
-.contact-info p, .contact-info address {
+.contact-info p, 
+.contact-info address {
     margin: 20px 0;
     line-height: 1.5;
     font-size: 20px;
